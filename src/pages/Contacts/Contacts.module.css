@@ -1,0 +1,11 @@
+.wrapper {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    color: #010101;
+}
+
+.title {
+    text-align: center;
+}

@@ -1,5 +1,5 @@
 .filter {
-    width: 600px;
+    /* width: 600px; */
     background-color: var(--secondary-bg-color);
     border: 1px solid;
     gap: 20px;

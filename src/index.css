@@ -49,14 +49,14 @@ p {
 }
 
 .active {
-  color: #924242;
+  color: #ff3434;
 }
 
 :root {
   --primery-color: #ffffff;
-  --secondary-bg-color: #c9abab;
-  --hover-bg-color: #af7b7b;
-  --error-color: #ff0000;
+  --secondary-bg-color: #dddddd;
+  --hover-bg-color: #ff3434;
+  --error-color: #ff3434;
   --transition_data: color, background-color 350ms cubic-bezier(0.4, 0, 0.2, 1);
   --transition-color-data: color 350ms cubic-bezier(0.4, 0, 0.2, 1);
 }
